@@ -17,7 +17,13 @@
  - 支持PC端，手机端H5拉起支付宝APP支付
  - 高并发安全稳定无风险，支持信用卡花呗支付
  - 交易费率0.6%（支付宝官方收取）
+<br/>
+<br/>
 
+GIF支付演示
+--
+
+![image](https://s2.loli.net/2022/04/06/DTkRJ5XQMbcHgOP.gif)
 <br/>
 <br/>
 
