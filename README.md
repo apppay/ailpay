@@ -39,7 +39,7 @@ GIF支付演示
 说明:源码目前只提供付费分享
 <br/>
 <br/>
-联系方式：<a target="_blank" href="https://pay.apppay.shop/qq.html">点击给我发消息</a>
+联系方式：<a target="_blank" href="https://apppay.github.io/qq.html">点击给我发消息</a>
 <!-- 官网：<a target="_blank" href="https://pay.apppay.shop">点击进入</a>  -->
 <br/>
 <br/>
